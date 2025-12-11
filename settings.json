@@ -1,0 +1,28 @@
+{
+    "cursorline": false,
+    "eofnewline": false,
+    "fakecursor": true,
+    "ignorecase": false,
+    "parsecursor": true,
+    "savehistory": false,
+    "scrollbar": true,
+    "scrollbarchar": " ",
+    "tabmovement": true,
+    "tabstospaces": true,
+    "[Mm]akefile": {
+        "tabstospaces": false
+    },
+    "*.html": {
+        "tabsize": 2
+    },
+    "*.css": {
+        "tabsize": 2
+    },
+    "*.[jt]s": {
+        "tabsize": 2
+    },
+    "*.[jt]sx": {
+        "tabsize": 2
+    },
+    "tabsize": 4
+}
