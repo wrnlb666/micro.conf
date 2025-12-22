@@ -1,4 +1,6 @@
 {
+    "Alt-/": "lua:comment.comment",
+    "Alt-i": "ShellMode",
     "Ctrl-r": "Redo",
-    "Alt-i": "ShellMode"
+    "CtrlUnderscore": "lua:comment.comment"
 }
