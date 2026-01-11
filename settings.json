@@ -11,6 +11,9 @@
     "*.html": {
         "tabsize": 2
     },
+    "*.jsonc?": {
+        "tabsize": 2
+    },
     "[Mm]akefile": {
         "tabstospaces": false
     },
